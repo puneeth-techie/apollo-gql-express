@@ -1,4 +1,4 @@
-# Implementing Basic CRUD API actions using **_[GraphQL]_**(https://en.wikipedia.org/wiki/GraphQL)
+# Implementing Basic CRUD API actions using [**GraphQL**](https://en.wikipedia.org/wiki/GraphQL)
 
 ## About [GraphQL](https://graphql.org/)
 
